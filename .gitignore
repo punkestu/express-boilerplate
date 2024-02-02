@@ -1,4 +1,5 @@
 node_modules/
 dist/
-src/public/style.css
+client/
+public/style.css
 .idea
